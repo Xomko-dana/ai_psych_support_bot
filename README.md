@@ -31,6 +31,9 @@ You can embed this chatbot into any website using:
 
 This bot helps users manage stress and provides simple emotional support in real time.
 
+## 📌Markdown
+Demo configuration may change over time.
+
 ## ⚠️ Disclaimer  ##
 
 This is not a replacement for professional mental health care.
